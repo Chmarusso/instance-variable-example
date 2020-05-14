@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span {
+  display: block;
+  height: 20px;
+  background: green;
+}
